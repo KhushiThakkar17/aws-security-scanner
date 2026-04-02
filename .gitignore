@@ -1,0 +1,7 @@
+venv/
+*.json
+*.html
+*.csv
+*.pyc
+__pycache__/
+.aws/
